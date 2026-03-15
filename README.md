@@ -14,10 +14,10 @@ A personal finance web app built with **React** and **Firebase**. Log daily expe
 
 ## License Summary
 
-- Personal, educational, and evaluation use is allowed.
-- Commercial use is not allowed without written permission from the developers.
-- Redistribution (original or modified) is not allowed without written permission.
-- Credit and ownership remain with the original developers.
+- This project is licensed under the MIT License.
+- You can use, modify, distribute, and use it commercially.
+- Include the original copyright and license notice in copies.
+- The software is provided "as is" without warranty.
 
 See [LICENCE](LICENCE) for complete legal terms.
 
@@ -225,5 +225,4 @@ Each expense is stored at the path: `users/{userId}/expenses/{expenseId}`
 
 ## License
 
-This project is provided under a restricted license for personal and evaluation use.
-See [LICENCE](LICENCE) for full terms.
+This project is open source under the [MIT License](LICENCE).
