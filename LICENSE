@@ -1,21 +1,33 @@
-MIT License
+Restricted License (Personal and Evaluation Use Only)
 
-Copyright (c) 2026 Prashant Parshuramkar
+Copyright (c) 2026 Prashant Parshuramkar and Himanshu Bele. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Grant of Limited Permission
+Permission is granted to view, use, and run this software for personal, educational, or evaluation purposes only.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Commercial Use Prohibited
+You may not sell, sublicense, rent, lease, host as a paid service, or use this software for any commercial purpose without prior written permission from the copyright holders.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Redistribution and Derivative Works
+You may not redistribute this software, in original or modified form, without prior written permission from the copyright holders.
+
+4. Attribution and Credit
+All ownership, authorship, and credit remain with the original developers:
+- Prashant Parshuramkar
+- Himanshu Bele
+
+You must not remove, alter, or misrepresent author credits, copyright notices, or project attribution.
+
+5. No Trademark or Branding Rights
+This license does not grant any right to use the developers' names, logos, or branding for endorsement, promotion, or marketing without written permission.
+
+6. Termination
+Any violation of this license immediately terminates your rights under it. Upon termination, you must stop using and delete all copies of the software.
+
+7. Warranty Disclaimer and Liability Limitation
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THIS SOFTWARE.
+
+8. Contact for Permissions
+For commercial licensing or redistribution requests, contact the developers via:
+- https://github.com/PrashantPKP
+- https://github.com/HimanshuBele
